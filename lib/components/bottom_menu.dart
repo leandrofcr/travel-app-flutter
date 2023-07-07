@@ -52,9 +52,3 @@ Widget bottomMenu(BuildContext context) {
     ),
   );
 }
-
-//duvidas: como alinhar o conteudo a esqueda ?
-// O que é o context da linha 8 e 9
-//Como adiciono eventos de onclick? 
- // existe buttom?
- 
